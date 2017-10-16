@@ -6,7 +6,7 @@ header("Content-type: text/xml");
 $rss='https://news.google.com/news/rss/search/section/q/(leteaksjon%20AND%20%22R%C3%B8de%20Kors%22%20)OR%20%22R%C3%B8de%20Kors%20hjelpekorps%22%20OR%20hjelpekorps%20OR%20redningshunder%20OR%20%22savnet%20siden%22/(leteaksjon%20AND%20%22R%C3%B8de%20Kors%22%20)OR%20%22R%C3%B8de%20Kors%20hjelpekorps%22%20OR%20hjelpekorps%20OR%20redningshunder%20OR%20%22savnet%20siden%22?hl=no&ned=no_no';
 
 $xml=join('', file($rss)); 
- 
+
 $xml=simplexml_load_string($xml);
 
 
@@ -25,7 +25,7 @@ foreach($xml->channel->item as $k) {
 
 	$tags=array_merge($tags['metaProperties'], $tags['metaTags']);
 	
-
+#	print_r($k);
 	
 #	print_r($tags);
 #	exit;
@@ -34,20 +34,27 @@ foreach($xml->channel->item as $k) {
 	$content=htmlentities(htmlentities(html_entity_decode($tags['og:description']['value'])));
 	
 	$published=$k->pubDate;
-
-	# news older than 24h is old news
-		if(time()-strtotime($published)>60*60*24){
+	
+	# old news is old news: hide
+	if(time()-strtotime($published)>60*60*24){
 		continue;
 	}
 	
 	$updated=$k->updated;
   $id=$k->guid;
+
+
+	if(strpos($img, 'default.jpg') or strpos($img, 'square_logo.jpg')) {
+		$img='';
+	}else{
+		$img="&lt;img src=&quot;$img&quot;&gt;";
+	}
 	
 		
 	print "
 <entry>
 <id>$id</id>
-<title type='html'>&lt;img src=&quot;$img&quot;&gt;$title</title>
+<title type='html'>$img $title</title>
 <link href='$link'/>
 <published>$published</published>
 <updated>$updated</updated>
@@ -109,12 +116,12 @@ function getUrlData($url, $raw=false) // $raw - enable for raw display
                     else
                          $meta_type = 'metaProperties';
                     if ($raw)
-                        ${$meta_type}[$names[$i]] = array (
+											${$meta_type}[trim($names[$i])] = array (
                             'html' => htmlentities($originals[$i], $flags, 'UTF-8'),
                             'value' => $values[$i]
                         );
                     else
-                        ${$meta_type}[$names[$i]] = array (
+											${$meta_type}[trim($names[$i])] = array (
                             'html' => $originals[$i],
                             'value' => $values[$i]
                         );
