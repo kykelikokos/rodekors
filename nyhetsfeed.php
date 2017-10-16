@@ -34,9 +34,15 @@ foreach($xml->channel->item as $k) {
 	$content=htmlentities(htmlentities(html_entity_decode($tags['og:description']['value'])));
 	
 	$published=$k->pubDate;
-	$updated=$k->updated;
-  $id=$k->id;
 
+	# news older than 24h is old news
+		if(time()-strtotime($published)>60*60*24){
+		continue;
+	}
+	
+	$updated=$k->updated;
+  $id=$k->guid;
+	
 		
 	print "
 <entry>
