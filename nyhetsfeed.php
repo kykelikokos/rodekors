@@ -41,8 +41,11 @@ foreach($xml->channel->item as $k) {
 	}
 	
 	$updated=$k->updated;
-  $id=$k->guid;
-
+  #$id=$k->guid;
+	$id=preg_replace('/[^0-9]/', '', $k->link);
+	if($id<1000){
+		$id=preg_replace('/[^0-9]/', '', md5($k->link));
+	}
 
 	if(strpos($img, 'default.jpg') or strpos($img, 'square_logo.jpg')) {
 		$img='';
