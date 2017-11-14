@@ -29,6 +29,11 @@ foreach($xml->channel->item as $k) {
 	
 #	print_r($tags);
 #	exit;
+	# permalink-fix
+		if($tags['og:url']['value']){
+ 	$link=$tags['og:url']['value'];
+   }
+	
 	$img=htmlentities($tags['og:image']['value']);
 	$title=htmlentities(htmlentities(html_entity_decode($tags['og:title']['value'])));
 	$content=htmlentities(htmlentities(html_entity_decode($tags['og:description']['value'])));
