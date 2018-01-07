@@ -79,12 +79,19 @@ Det er ingen karantenetid før du kan prøve med et nytt scenario, og det er ing
 
 ##### Praktisk informasjon:
 Utsjekken skal foregå i privatbil, mannskapsbil eller utendørs (valgfritt). Det skal mest mulig ligne forholdene vi har under reelle ettersøkninger hvor vi ikke har KO innendørs.  Det skal ikke benyttes KO-bil eller KO-vogn som er innredet for slikt formål.  Strøm skal komme fra innebygd batteri, 12V bilstrøm, aggregat e.l., men ikke fra vanlig stikkontakt.
+
 IPP bør gis elektronisk i GPX-format slik at det ikke blir gjort noen skrivefeil.  Den kan gis enten via e-mail, Dropbox eller USB minnepinne.
+
 Tiden starter etter at KO er etablert slik at internettforbindelse er opprettet, datamaskin og software er i gang, osv., og straks etter at IPP er importert inn i Basecamp.  Savnet-kategori og avstander for R25%, R50% og R75% skal gis før tiden startes.
+
 Kandidaten informeres ikke før etter at utsjekken er ferdig om noen av tidsbegrensningene ble overskredet, og altså ikke underveis.  Men alle tider skal noteres underveis og oppgis til kandidaten på slutten.
+
 Veipunktet i UTM skal gis i løpet av deloppgave B eller C.  Det skal ligge et sted mellom R25% og R75%.  Tidsbegrensningen for den aktuelle deloppgaven skal fortsatt overholdes, dvs. man skal ikke legge til ekstra tid.
+
 Gateadressen i deloppgave D skal ligge utenfor R50% og innenfor 10 km fra IPP.
+
 Utsjekken kan gjerne foregå via f. eks. Skype, hvor kandidaten deler skjermen sin med sensoren.
+
 Det er valgfritt hvor lang pause det er mellom hvert scenario.
 
 ##### Tidtaking:
