@@ -85,8 +85,8 @@ Utsjekken kan gjerne foregå via f. eks. Skype, hvor kandidaten deler skjermen s
 Det er valgfritt hvor lang pause det er mellom hvert scenario.
 
 ##### Tidtaking:
-| Deloppgave |                     | Tidsbegrensning | Oppnådd resultater              |
-| ---------- | ------------------- | --------------- | :------------------------------ |
+| Deloppgave |                     | Tidsbegrensning | Oppnådd resultate              |
+| ---------- | ------------------- | --------------- | ------------------------------- |
 | A          | R25%                | 6 minutter      |      minutter   	      sekunder |
 | B          | R25%-R50%           | 15 minutter     |      minutter          sekunder |
 | UTM        |                     | 60 sekunder     |      minutter          sekunder |
