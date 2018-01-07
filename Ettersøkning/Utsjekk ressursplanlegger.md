@@ -1,17 +1,42 @@
-# Krav til ressursplanlegger, og praktisk utsjekk
+# Utsjekk av ressursplanlegger
 
-ARKH ressursplanleggers oppgave på en ettersøkning er å assistere ARKH aksjonsleder ved å produsere søksoppdrag og tilhørende søksteiger i Garmin Basecamp og/eller SAR SYS, og distribuere dem til lagledere.
+   * [Utsjekk av ressursplanlegger](#utsjekk-av-ressursplanlegger)
+      * [Innledning](#innledning)
+         * [Hensikt](#hensikt)
+         * [Hovedmål](#hovedmål)
+         * [Krav til deltaker](#krav-til-deltaker)
+      * [Utsjekk av forståelse og kompetanse](#utsjekk-av-forståelse-og-kompetanse)
+         * [Programteknisk](#programteknisk)
+         * [Søksteknisk](#søksteknisk)
+         * [Kartografi](#kartografi)
+         * [Kommunikasjon:](#kommunikasjon)
+         * [Annet](#annet)
+      * [Gjennomføring av utsjekk](#gjennomføring-av-utsjekk)
+         * [Praktisk informasjon:](#praktisk-informasjon)
+            * [Tidtaking:](#tidtaking)
 
-##### Generelt:
-1. Må ha bestått KSOR, og bør ha bestått LSOR.
-2. Må ha praktisk erfaring som søksmannskap på reelle søksoppdrag, og helst også som lagleder.
-3. Må ha god kjennskap til de vanligste søkemetodene, både for grovsøk og for finsøk.
-4. Må ha en svært god forståelse av sykkelhjulmodellen gjennom bl. a. å ha lest og forstått «Nasjonal veileder for redningstjenesten – Søk etter savnet person på land».
-5. Har kjennskap til innholdet og statistikken i «Lost Person Behavior», og kan finne frem og tolke det som står der selvstendig når savnet-kategori er blitt oppgitt.
-6. Har lest grundig og forstår «Garmin Basecamp – brukerveiledning» utgitt av Norske Redningshunder, og er kjent med forskjellene mellom det NRH gjøre og det ARKH gjør.
-7. Har god generell kartforståelse, både med papirkart og med forskjellige elektroniske kart (høydekurver, betydning av farger, forskjell mellom merket sti, umerket sti, lysløype, traktorvei, vei, motorvei, kraftledning, tog- og t-baneskinner, administrative grenser, bebygget område, skog, dyrket mark, osv.)
+## Innledning
 
-##### Programteknisk:
+### Hensikt
+Hensikten med utsjekk av ressursplanlegger er å verifisere medlemmer med interesse og kunnskaper om ressursplanleggelse i en aksjonsledelse. 
+
+### Hovedmål
+Utsjekken skal verifisere at deltaker har de nødvendige kunnskaper og ferdigheter og holdninger som gjør dem i stand til å assistere aksjonsleder med å
+* produsere søksoppdrag og tilhørende søksteiger
+* innsamle, og strukturere sporlogger
+* distribuere oppdrag til enheter i egen organisasjon
+
+### Krav til deltaker
+* Bestått KSOR, anbefalt bestått LSOR
+* Innehar praktisk erfaring som søksmannskap på reelle søksoppdrag, også som lagleder
+* Inneha god kjennskap til de vanligste søkemetodene, både for grovsøk og for finsøk.
+* Inneha god forståelse av sykkelhjulmodellen som angitt i «Nasjonal veileder for redningstjenesten – Søk etter savnet person på land»
+* Har kjennskap til innholdet og statistikken i «Lost Person Behavior», og kan finne frem og tolke det som står der selvstendig når savnet-kategori er blitt oppgitt
+* Behersker programvare og rutiner i disse som brukes i aktuelt område
+* Innehar god generell kartforståelse, både med papirkart og med forskjellige elektroniske kart
+
+## Utsjekk av forståelse og kompetanse 
+### Programteknisk
 1. Kan laste ned, installere og oppdatere Garmin Basecamp programmet.
 2. Kan installere Garmin kart (Topo Experience Pro).
 3. Kan laste ned, installere og oppdatere Frikart kart.
@@ -39,11 +64,11 @@ ARKH ressursplanleggers oppgave på en ettersøkning er å assistere ARKH aksjon
 25. Kan endre farge på oppdrag og sporlogg, enten enkeltvis eller i bulk.
 26. Kan finne UTM til en oppgitt gateadresse både ved hjelp av Frikart veikart (kun PC, ikke Mac?), og Gule Sider.
 27. Kan legge inn et veipunkt når posisjonen i UTM oppgis muntlig, og er kjent med hvorfor man bør bruke f. eks. Notepad for å klippe og lime inn den komplette posisjonen i Basecamp heller enn å taste den inn direkte.
-28. Kjenner til og kan bruke relevante on-line ressurser (Gule Sider kart og flyfoto, Google Maps og satellittbilder, UMS, vb.akershusrodekors.no, osv).
+28. Kjenner til og kan bruke relevante on-line ressurser (Gule Sider kart og flyfoto, Google Maps, satellittbilder, UMS, osv).
 29. Kan sende ut tekstmeldinger via UMS.
 30. Kan finne tider for soloppgang og -nedgang ved hjelp av en GPS, og on-line.
 
-##### Søksteknisk:
+### Søksteknisk
 1. Vet omtrentlig arealet på en sirkel med radius på 300 m, og kan konvertere mellom kvadratmeter og kvadratkilometer.
 2. Vet hvor stor en egnet søksteig er for fotmannskap, avhengig av terreng, lysforhold, føreforhold osv.
 3. Vet hva som er fornuftige naturlige begrensinger på en teig, og tilsvarende hva som ikke er fornuftige begrensninger.
@@ -51,25 +76,23 @@ ARKH ressursplanleggers oppgave på en ettersøkning er å assistere ARKH aksjon
 5. Kan tegne egnede søksteiger for fotmannskap, bilsøk, ATV-søk, søk med snøscooter, og båtsøk.
 6. Kan identifisere potensielt relevante POI og sperre- eller observasjonsposter basert på kartinformasjon og etterretning, primært under veiledning av aksjonsleder men på sikt også selvstendig.
 
-##### Annet:
-1. Kan gi ut søksoppdrag til lagledere, inkludert informasjonen som inngår i en fempunktsordre.
-2. Kan bruke ressursoversikten for å ha en oppdatert status på søkslag og tildelte oppdrag.
+### Kartografi
+* Kartforståelse (høydekurver, betydning av farger, forskjell mellom merket sti, umerket sti, lysløype, traktorvei, vei, motorvei, kraftledning, tog- og t-baneskinner, administrative grenser, bebygget område, skog, dyrket mark, osv.)
 
-##### Praktisk utsjekk
-Kandidaten informeres om det følgende i rammen nedenfor.
+### Kommunikasjon:
+* Kan gi ut søksoppdrag til lagledere, inkludert informasjonen som inngår i en fempunktsordre.
 
+### Annet
+* Kan bruke ressursoversikten for å ha en oppdatert status på søkslag og tildelte oppdrag.
+
+## Gjennomføring av utsjekk
+Kandidaten informeres om følgende
 * Du skal produsere egnede søksoppdrag for fotmannskap og ATV ihht sykkelhjulmodellen i Basecamp.  Du vil få oppgitt IPP, savnet-kategori og avstandene til R25%, R50% og R75%.
-
 * Teigene du tegner skal lastes opp på Dropbox, og det er valgfritt om dette gjøres fortløpende enkeltvis, samlet for en deloppgave, eller en blanding.  Men opplastingen må være fullført  innenfor tidsbegrensningen for den enkelte deloppgave.
-
 * I løpet av utsjekken vil du få oppgitt et veipunkt kun muntlig som du skal plotte inn også, men så kan du se bort fra det punktet i søksplanleggingen din. Det skal ta mindre enn 60 sekunder å legge inn dette veipunktet.
-
 * **Deloppgave A:** Tegn søksteiger for fotmannskap fra et gitt IPP og ut til R25%.  Hele dette arealet skal dekkes av søksteiger, og du må være ferdig på under 6 minutter.  (For kort tid?)
-
 * **Deloppgave B:** Tegn søksteiger for fotmannskap fra R25% og ut til R50%.  Hele arealet skal dekkes, og deloppgaven må fullføres på under 15 minutter. (Passe med tid?  Bør det også være krav om f eks X antall søksteiger i løpet av de første 5 minuttene?)
-
 * **Deloppgave C:** Tegn så mange ATV søksteiger fra IPP og ut til R75% som du klarer på 10 minutter.  Minimumskrav er 4 ATV søksteiger. (Passe med tid?  Krav om flere teiger på den tiden?)
-
 * **Deloppgave D:** Du skal lage et veipunkt for en gateadresse som vil bli oppgitt muntlig.  Dette skal gjøres på under 3 minutter. (Passe med tid?)
 
 Deloppgavene A, B, C og D går fortløpende etter hverandre uten pause.  Ubenyttet tid på en deloppgave kan ikke brukes på en påfølgende deloppgave.
@@ -77,7 +100,7 @@ Deloppgavene A, B, C og D går fortløpende etter hverandre uten pause.  Ubenytt
 Du må gjøre dette for to separate og forskjellige scenarier innenfor tidsbegrensningene for å bestå.  Dersom noen av tidsbegrensningene overskrides skal du uansett fullføre alle deloppgavene, men utsjekken nulleres og du må prøve på nytt med et helt nytt scenario.
 Det er ingen karantenetid før du kan prøve med et nytt scenario, og det er ingen begrensning på hvor mange scenarier du kan prøve deg på for å bestå.
 
-##### Praktisk informasjon:
+### Praktisk informasjon:
 Utsjekken skal foregå i privatbil, mannskapsbil eller utendørs (valgfritt). Det skal mest mulig ligne forholdene vi har under reelle ettersøkninger hvor vi ikke har KO innendørs.  Det skal ikke benyttes KO-bil eller KO-vogn som er innredet for slikt formål.  Strøm skal komme fra innebygd batteri, 12V bilstrøm, aggregat e.l., men ikke fra vanlig stikkontakt.
 
 IPP bør gis elektronisk i GPX-format slik at det ikke blir gjort noen skrivefeil.  Den kan gis enten via e-mail, Dropbox eller USB minnepinne.
@@ -94,7 +117,7 @@ Utsjekken kan gjerne foregå via f. eks. Skype, hvor kandidaten deler skjermen s
 
 Det er valgfritt hvor lang pause det er mellom hvert scenario.
 
-##### Tidtaking:
+#### Tidtaking:
 | Deloppgave |                     | Tidsbegrensning | Oppnådd resultater              |
 | ---------- | ------------------- | --------------- | ------------------------------- |
 | A          | R25%                | 6 minutter      |      minutter   	      sekunder |
