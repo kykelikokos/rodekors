@@ -78,7 +78,6 @@ Deloppgavene A, B, C og D går fortløpende etter hverandre uten pause.  Ubenytt
 Du må gjøre dette for to separate og forskjellige scenarier innenfor tidsbegrensningene for å bestå.  Dersom noen av tidsbegrensningene overskrides skal du uansett fullføre alle deloppgavene, men utsjekken nulleres og du må prøve på nytt med et helt nytt scenario.
 Det er ingen karantenetid før du kan prøve med et nytt scenario, og det er ingen begrensning på hvor mange scenarier du kan prøve deg på for å bestå.
 
-
 Praktisk informasjon:
 Utsjekken skal foregå i privatbil, mannskapsbil eller utendørs (valgfritt). Det skal mest mulig ligne forholdene vi har under reelle ettersøkninger hvor vi ikke har KO innendørs.  Det skal ikke benyttes KO-bil eller KO-vogn som er innredet for slikt formål.  Strøm skal komme fra innebygd batteri, 12V bilstrøm, aggregat e.l., men ikke fra vanlig stikkontakt.
 IPP bør gis elektronisk i GPX-format slik at det ikke blir gjort noen skrivefeil.  Den kan gis enten via e-mail, Dropbox eller USB minnepinne.
@@ -89,24 +88,10 @@ Gateadressen i deloppgave D skal ligge utenfor R50% og innenfor 10 km fra IPP.
 Utsjekken kan gjerne foregå via f. eks. Skype, hvor kandidaten deler skjermen sin med sensoren.
 Det er valgfritt hvor lang pause det er mellom hvert scenario.
 
-
-  
-Tidtaking:
-
-Deloppgave		Tidsbegrensning	Oppnådd resultater
-A	R25%	6 minutter	         minutter          sekunder
-B	R25%-R50%	15 minutter	         minutter          sekunder
-UTM		60 sekunder	         minutter          sekunder
-C	ATV teiger
-(min. 4)	10 minutter	Antall teiger etter 10 minutter:
-
-
-D	Gateadresse	3 minutter	         minutter          sekunder
-
-
-
-
-Revisjonshistorikk:
-Draft 1 – Original utkast
-
-
+##### Tidtaking:
+| Deloppgave |                     | Tidsbegrensning | Oppnådd resultater             |
+| A          | R25%                | 6 minutter      |      minutter   	      sekunder |
+| B          | R25%-R50%           | 15 minutter     |      minutter          sekunder |
+| UTM        |                     | 60 sekunder     |      minutter          sekunder |
+| C          | ATV teiger (min. 4) | 10 minutter     | Antall teiger etter 10 minutter |
+| D          | Gateadresse         | 3 minutter      |      minutter          sekunder |
