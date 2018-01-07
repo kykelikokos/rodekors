@@ -58,27 +58,26 @@ ARKH ressursplanleggers oppgave på en ettersøkning er å assistere ARKH aksjon
 ##### Praktisk utsjekk
 Kandidaten informeres om det følgende i rammen nedenfor.
 
-Du skal produsere egnede søksoppdrag for fotmannskap og ATV ihht sykkelhjulmodellen i Basecamp.  Du vil få oppgitt IPP, savnet-kategori og avstandene til R25%, R50% og R75%.
+* Du skal produsere egnede søksoppdrag for fotmannskap og ATV ihht sykkelhjulmodellen i Basecamp.  Du vil få oppgitt IPP, savnet-kategori og avstandene til R25%, R50% og R75%.
 
-Teigene du tegner skal lastes opp på Dropbox, og det er valgfritt om dette gjøres fortløpende enkeltvis, samlet for en deloppgave, eller en blanding.  Men opplastingen må være fullført  innenfor tidsbegrensningen for den enkelte deloppgave.
+* Teigene du tegner skal lastes opp på Dropbox, og det er valgfritt om dette gjøres fortløpende enkeltvis, samlet for en deloppgave, eller en blanding.  Men opplastingen må være fullført  innenfor tidsbegrensningen for den enkelte deloppgave.
 
-I løpet av utsjekken vil du få oppgitt et veipunkt kun muntlig som du skal plotte inn også, men så kan du se bort fra det punktet i søksplanleggingen din.
-Det skal ta mindre enn 60 sekunder å legge inn dette veipunktet.
+* I løpet av utsjekken vil du få oppgitt et veipunkt kun muntlig som du skal plotte inn også, men så kan du se bort fra det punktet i søksplanleggingen din. Det skal ta mindre enn 60 sekunder å legge inn dette veipunktet.
 
-Deloppgave A: Tegn søksteiger for fotmannskap fra et gitt IPP og ut til R25%.  Hele dette arealet skal dekkes av søksteiger, og du må være ferdig på under 6 minutter.  (For kort tid?)
+* **Deloppgave A:** Tegn søksteiger for fotmannskap fra et gitt IPP og ut til R25%.  Hele dette arealet skal dekkes av søksteiger, og du må være ferdig på under 6 minutter.  (For kort tid?)
 
-Deloppgave B: Tegn søksteiger for fotmannskap fra R25% og ut til R50%.  Hele arealet skal dekkes, og deloppgaven må fullføres på under 15 minutter. (Passe med tid?  Bør det også være krav om f eks X antall søksteiger i løpet av de første 5 minuttene?)
+* **Deloppgave B:** Tegn søksteiger for fotmannskap fra R25% og ut til R50%.  Hele arealet skal dekkes, og deloppgaven må fullføres på under 15 minutter. (Passe med tid?  Bør det også være krav om f eks X antall søksteiger i løpet av de første 5 minuttene?)
 
-Deloppgave C: Tegn så mange ATV søksteiger fra IPP og ut til R75% som du klarer på 10 minutter.  Minimumskrav er 4 ATV søksteiger. (Passe med tid?  Krav om flere teiger på den tiden?)
+* **Deloppgave C:** Tegn så mange ATV søksteiger fra IPP og ut til R75% som du klarer på 10 minutter.  Minimumskrav er 4 ATV søksteiger. (Passe med tid?  Krav om flere teiger på den tiden?)
 
-Deloppgave D: Du skal lage et veipunkt for en gateadresse som vil bli oppgitt muntlig.  Dette skal gjøres på under 3 minutter. (Passe med tid?)
+* **Deloppgave D:** Du skal lage et veipunkt for en gateadresse som vil bli oppgitt muntlig.  Dette skal gjøres på under 3 minutter. (Passe med tid?)
 
 Deloppgavene A, B, C og D går fortløpende etter hverandre uten pause.  Ubenyttet tid på en deloppgave kan ikke brukes på en påfølgende deloppgave.
 
 Du må gjøre dette for to separate og forskjellige scenarier innenfor tidsbegrensningene for å bestå.  Dersom noen av tidsbegrensningene overskrides skal du uansett fullføre alle deloppgavene, men utsjekken nulleres og du må prøve på nytt med et helt nytt scenario.
 Det er ingen karantenetid før du kan prøve med et nytt scenario, og det er ingen begrensning på hvor mange scenarier du kan prøve deg på for å bestå.
 
-Praktisk informasjon:
+**Praktisk informasjon:**
 Utsjekken skal foregå i privatbil, mannskapsbil eller utendørs (valgfritt). Det skal mest mulig ligne forholdene vi har under reelle ettersøkninger hvor vi ikke har KO innendørs.  Det skal ikke benyttes KO-bil eller KO-vogn som er innredet for slikt formål.  Strøm skal komme fra innebygd batteri, 12V bilstrøm, aggregat e.l., men ikke fra vanlig stikkontakt.
 IPP bør gis elektronisk i GPX-format slik at det ikke blir gjort noen skrivefeil.  Den kan gis enten via e-mail, Dropbox eller USB minnepinne.
 Tiden starter etter at KO er etablert slik at internettforbindelse er opprettet, datamaskin og software er i gang, osv., og straks etter at IPP er importert inn i Basecamp.  Savnet-kategori og avstander for R25%, R50% og R75% skal gis før tiden startes.
@@ -89,10 +88,11 @@ Utsjekken kan gjerne foregå via f. eks. Skype, hvor kandidaten deler skjermen s
 Det er valgfritt hvor lang pause det er mellom hvert scenario.
 
 ##### Tidtaking:
-| Deloppgave |                     | Tidsbegrensning | Oppnådd resultate              |
+| Deloppgave |                     | Tidsbegrensning | Oppnådd resultater              |
 | ---------- | ------------------- | --------------- | ------------------------------- |
 | A          | R25%                | 6 minutter      |      minutter   	      sekunder |
 | B          | R25%-R50%           | 15 minutter     |      minutter          sekunder |
 | UTM        |                     | 60 sekunder     |      minutter          sekunder |
 | C          | ATV teiger (min. 4) | 10 minutter     | Antall teiger etter 10 minutter |
 | D          | Gateadresse         | 3 minutter      |      minutter          sekunder |
+  
