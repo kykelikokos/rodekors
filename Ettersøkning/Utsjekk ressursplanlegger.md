@@ -19,7 +19,7 @@
 
 ### Hensikt
 Hensikten med utsjekk av ressursplanlegger er å verifisere medlemmer med interesse og kunnskaper om ressursplanleggelse i en aksjonsledelse.
-> Det er viktig å understreke at utsjekken ikke gir tilsvarende kompetanse, eller utdannelse, men bare er ett hjelpemiddel for aksjonsledelsesgrupper for å prekvalifisere ressurser som kan bistå aksjonsleder.
+> Det er viktig å understreke at utsjekken ikke gir tilsvarende kompetanse eller utdannelse som ASOR/Barmark A, men bare er ett hjelpemiddel for aksjonsledelsesgrupper for å prekvalifisere ressurser som kan bistå aksjonsleder.
 
 ### Hovedmål
 Utsjekken skal verifisere at deltaker har de nødvendige kunnskaper, ferdigheter og holdninger som gjør dem i stand til å assistere aksjonsleder med å
