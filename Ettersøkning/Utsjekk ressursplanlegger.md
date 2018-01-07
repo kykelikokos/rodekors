@@ -77,7 +77,7 @@ Deloppgavene A, B, C og D går fortløpende etter hverandre uten pause.  Ubenytt
 Du må gjøre dette for to separate og forskjellige scenarier innenfor tidsbegrensningene for å bestå.  Dersom noen av tidsbegrensningene overskrides skal du uansett fullføre alle deloppgavene, men utsjekken nulleres og du må prøve på nytt med et helt nytt scenario.
 Det er ingen karantenetid før du kan prøve med et nytt scenario, og det er ingen begrensning på hvor mange scenarier du kan prøve deg på for å bestå.
 
-**Praktisk informasjon:**
+##### Praktisk informasjon:
 Utsjekken skal foregå i privatbil, mannskapsbil eller utendørs (valgfritt). Det skal mest mulig ligne forholdene vi har under reelle ettersøkninger hvor vi ikke har KO innendørs.  Det skal ikke benyttes KO-bil eller KO-vogn som er innredet for slikt formål.  Strøm skal komme fra innebygd batteri, 12V bilstrøm, aggregat e.l., men ikke fra vanlig stikkontakt.
 IPP bør gis elektronisk i GPX-format slik at det ikke blir gjort noen skrivefeil.  Den kan gis enten via e-mail, Dropbox eller USB minnepinne.
 Tiden starter etter at KO er etablert slik at internettforbindelse er opprettet, datamaskin og software er i gang, osv., og straks etter at IPP er importert inn i Basecamp.  Savnet-kategori og avstander for R25%, R50% og R75% skal gis før tiden startes.
